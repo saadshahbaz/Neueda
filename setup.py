@@ -6,3 +6,5 @@ setup(
     packages=["matrix_tools"],
     license="MIT"
 )
+
+#version 1
